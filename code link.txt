@@ -1,0 +1,32 @@
+Task1 Student score prediction:
+https://colab.research.google.com/drive/1SJjB-udFLL80awBdNK0rnwh6XcyAA_Z6?usp=sharing
+
+
+Task2 Customer Segmentation:
+https://colab.research.google.com/drive/1pFegKJWtxulFXUMDP4h2efACNimCIcjd?usp=sharing
+
+
+Task3 Forest Cover Type Classification:
+https://colab.research.google.com/drive/1ns981dyQ2l8QbufUgPX5_xDtZ2OHOZvg?usp=sharing
+
+
+Task4 Loan Approval Prediction:
+https://colab.research.google.com/drive/1KWU41X-V0SZGevJ5ydeXHqxYFCtHfg3t?usp=sharing
+
+
+Task5 Movie Recommendation System Description:
+https://colab.research.google.com/drive/1OTzFywMhZ0Ol09LP7l-q8105yo1n1b3I?usp=sharing
+
+
+Task6 Music Genre Classification:
+https://colab.research.google.com/drive/1TonJhRBeeK8bPW99SbWZH6mzXWWyICob?usp=sharing
+
+
+Task7 Sales Forecasting:
+https://colab.research.google.com/drive/1IJ4dk48slbEibtT6Tr_ITA5z601yvpzC?usp=sharing
+
+
+Task8 Traffic Sign Recognition:
+https://colab.research.google.com/drive/1WnqXQuSTCJ1ORiRjtYs4CJ4athdf7jUn?usp=sharing
+
+
